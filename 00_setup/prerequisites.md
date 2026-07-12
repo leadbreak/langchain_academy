@@ -15,10 +15,10 @@ ollama serve
 # In another terminal, verify that Ollama is running
 ollama -v
 
-# Pull the gpt-oss model (only need to do this once)
-ollama pull ornith:9b
+# Pull the model (only need to do this once)
+ollama pull ornith:35b
 # Start the model locally
-ollama run ornith:9b
+ollama run ornith:35b
 # Check that it's running
 ollama ps
 
