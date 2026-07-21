@@ -29,4 +29,6 @@ ollama ps
 ```bash
 cd lca-langchainV1-essentials/python_local
 uv run jupyter lab
+# or
+uv run jupyter lab --allow-root
 ```
