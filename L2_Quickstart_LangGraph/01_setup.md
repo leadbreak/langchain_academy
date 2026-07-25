@@ -24,3 +24,10 @@ ollama serve
 # Start the model locally
 ollama run ornith:35b
 ```
+
+Update for local running
+```bash
+uv add langchain-ollama
+
+# and use local version notebook what I modify
+```
