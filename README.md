@@ -12,3 +12,6 @@
 | Lesson 1 | 2026_07_09 | [lecture](/L1_Quickstart_LangChain/lca-langchainV1-essentials/python_local) | Ollama 이용해서 lanchain 활용 |
 | Lesson 1 | 2026_07_12 | [lecture](/L1_Quickstart_LangChain/00_setup/) | 전체 정리 및 마무리 |
 | Lesson 2 | 2026_07_13 | [lecture](/L2_Quickstart_LangGraph/00_Introduction.ipynb) | LangGraph 소개 |
+| Lesson 2 | 2026_07_14 | [lecture](/L2_Quickstart_LangGraph/01_setup.md) | LangGraph setup |
+| Lesson 2 | 2026_07_16 | [lecture](/L2_Quickstart_LangGraph/02_L6_EmailAgent.ipynb) | LangGraph Study |
+| Lesson 2 | 2026_07_16 | [lecture](/L2_Quickstart_LangGraph/02_L6_EmailAgent.ipynb) | LangGraph Study & PR |
